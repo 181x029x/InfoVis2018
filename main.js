@@ -32,7 +32,3 @@ function main()
         renderer.render( scene, camera );
     }
 }
-<<<<<<< HEAD
-
-=======
->>>>>>> origin/master
