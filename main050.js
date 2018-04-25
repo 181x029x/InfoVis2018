@@ -76,7 +76,7 @@ function main()
     var cube = new THREE.Mesh( geometry, material );
     scene.add( cube );
 
-    document.addEventListener( 'mousedown', mouse_down_event );
+    
 
 
     loop();
